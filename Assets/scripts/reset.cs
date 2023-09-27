@@ -6,9 +6,8 @@ using UnityEngine;
 
 public class reset : MonoBehaviour
 {
-    public GameObject resetbutton;
-    public GameObject nextLevelbutton;
-    public GameObject MainMenuebutton;
+    
+    public GameObject buttons;
     public TextMeshProUGUI wintext;
 
     public lapscounter laps;
@@ -25,9 +24,8 @@ public class reset : MonoBehaviour
     {
         wintext.gameObject.SetActive(false);
 
-        resetbutton.SetActive(false);
-        nextLevelbutton.SetActive(false);
-        MainMenuebutton.SetActive(false);
+        buttons.SetActive(false);
+        
     }
 
     public void Reset()
@@ -36,9 +34,8 @@ public class reset : MonoBehaviour
         rbP2.velocity = Vector3.zero;
         Time.timeScale = 1;
         wintext.gameObject.SetActive(false);
-        resetbutton.SetActive(false);
-        nextLevelbutton.SetActive(false);
-        MainMenuebutton.SetActive(false);
+        buttons.SetActive(false);
+
         player1.position = player1start.position;
         player2.position = player2start.position;
         laps.player1laps = resetlapnumber;

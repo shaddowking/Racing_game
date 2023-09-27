@@ -7,9 +7,8 @@ using Unity.VisualScripting;
 
 public class lapscounter : MonoBehaviour
 {
-    public GameObject resetbutton;
-    public GameObject nextLevelbutton;
-    public GameObject MainMenuebutton;
+    public GameObject buttons;
+
     
     public TextMeshProUGUI P1counter;
     public TextMeshProUGUI P2counter;
@@ -47,23 +46,21 @@ public class lapscounter : MonoBehaviour
 
         if (player1laps == 1)
         {
-            wintext.gameObject.SetActive(true);
             wintext.text = "player 1 won";
             Time.timeScale = 0;
-            resetbutton.SetActive(true);
-            nextLevelbutton.SetActive(true);
-            MainMenuebutton.SetActive(true);
+            
+            wintext.gameObject.SetActive(true);
+            buttons.SetActive(true);
+
 
         }
         if (player2laps == 3)
         {
-            wintext.gameObject.SetActive(true);
             wintext.text = "player 2 won";
             Time.timeScale = 0;
-            resetbutton.SetActive(true);
-            nextLevelbutton.SetActive(true);
-            MainMenuebutton.SetActive(true);
-
+            
+            wintext.gameObject.SetActive(true);
+            buttons.SetActive(true);
 
         }
     }
