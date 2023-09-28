@@ -24,6 +24,7 @@ public class reset : MonoBehaviour
     {
         wintext.gameObject.SetActive(false);
 
+        Time.timeScale = 1;
         buttons.SetActive(false);
         
     }

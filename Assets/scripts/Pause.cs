@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Pause : MonoBehaviour
 {
+    public GameObject P1controlUI;
+    public GameObject P2controlUI;
     public GameObject resumebutton;
     public GameObject menue;
     // Start is called before the first frame update
@@ -11,7 +13,8 @@ public class Pause : MonoBehaviour
     {
         menue.SetActive(false);
         resumebutton.SetActive(false);
-
+        P1controlUI.SetActive(false);
+        P2controlUI.SetActive(false);
 
     }
 
@@ -20,6 +23,9 @@ public class Pause : MonoBehaviour
         Time.timeScale = 1;
         menue.SetActive(false);
         resumebutton.SetActive(false);
+        P1controlUI.SetActive(false);
+        P2controlUI.SetActive(false);
+
     }
     // Update is called once per frame
     void Update()
@@ -29,6 +35,9 @@ public class Pause : MonoBehaviour
             Time.timeScale = 0;
             menue.SetActive(true);
             resumebutton.SetActive(true);
+            P1controlUI.SetActive(true);
+            P2controlUI.SetActive(true);
+
         }
         
     }

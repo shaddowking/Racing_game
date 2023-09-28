@@ -8,7 +8,6 @@ public class player_movment : MonoBehaviour
 
     public float speed;
     public float turnspeed;
-    private float stopspeed;
     private bool isstopped;
 
     
