@@ -38,7 +38,10 @@ public class reset : MonoBehaviour
         buttons.SetActive(false);
 
         player1.position = player1start.position;
+        player1.rotation = player1start.rotation;
         player2.position = player2start.position;
+        player2.rotation = player2start.rotation;
+        
         laps.player1laps = resetlapnumber;
         laps.player2laps = resetlapnumber;
     }
