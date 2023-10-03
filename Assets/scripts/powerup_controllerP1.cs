@@ -9,6 +9,9 @@ public class powerup_controllerP1 : MonoBehaviour
     public bool haspowerup;
     
     
+    public float radius = 5f;
+    public float force;
+    
     void Start()
     {
         haspowerup = false;
@@ -31,6 +34,15 @@ public class powerup_controllerP1 : MonoBehaviour
             if (Input.GetKey(KeyCode.E))
             {
                 haspowerup = false;
+                Collider[] colliders = Physics.OverlapSphere(transform.position, radius);
+                foreach (Collider nearbyObjects in colliders)
+                {
+                    Rigidbody rb = nearbyObjects.GetComponent<Rigidbody>();
+                    if (rb != null)
+                    {
+                        rb.AddExplosionForce(force, transform.position,radius);
+                    }
+                }
             }
         }
         
