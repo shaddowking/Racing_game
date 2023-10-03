@@ -351,8 +351,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   powerupicon: {fileID: 855259542}
   haspowerup: 0
-  radius: 5
-  force: 0
+  radius: 20
+  force: 2000
 --- !u!1 &61452676 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: bf1929c89b6308b40a559e7a16eb1f6f, type: 3}
@@ -440,8 +440,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   powerupicon: {fileID: 1726124477}
   haspowerup: 0
-  radius: 10
-  force: 50
+  radius: 20
+  force: 2000
 --- !u!1 &99683444
 GameObject:
   m_ObjectHideFlags: 0

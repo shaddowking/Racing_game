@@ -33,7 +33,6 @@ public class powerup_controllerP1 : MonoBehaviour
         {
             if (Input.GetKey(KeyCode.E))
             {
-                haspowerup = false;
                 Collider[] colliders = Physics.OverlapSphere(transform.position, radius);
                 foreach (Collider nearbyObjects in colliders)
                 {
@@ -43,6 +42,8 @@ public class powerup_controllerP1 : MonoBehaviour
                         rb.AddExplosionForce(force, transform.position,radius);
                     }
                 }
+                haspowerup = false;
+
             }
         }
         
