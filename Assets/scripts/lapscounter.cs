@@ -44,7 +44,7 @@ public class lapscounter : MonoBehaviour
         P1counter.text = "P1 " + $"{player1laps}" + "/3";
         P2counter.text = "P2 " + $"{player2laps}" + "/3";
 
-        if (player1laps == 1)
+        if (player1laps == 3)
         {
             wintext.text = "player 1 won";
             Time.timeScale = 0;
