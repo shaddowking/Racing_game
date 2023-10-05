@@ -42,6 +42,7 @@ public class player_movment : MonoBehaviour
             {
                 rb.AddForce(-transform.forward * speed);
             }
+
         }
         
         
@@ -51,7 +52,6 @@ public class player_movment : MonoBehaviour
 
         if (isstopped == false)
         {
-            Debug.Log("isstopped");
 
             if (Input.GetKey(KeyCode.A))
             {

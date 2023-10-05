@@ -52,7 +52,6 @@ public class player2_movment : MonoBehaviour
 
         if (isstopped == false)
         {
-            Debug.Log("isstopped");
             if (Input.GetKey(KeyCode.LeftArrow))
             {
                 transform.Rotate(0f,-turnspeed * Time.deltaTime,0f,Space.World);
