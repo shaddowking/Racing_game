@@ -22,6 +22,9 @@ when you have the power up and pres the power up butten if the other player is c
 
 when eny of the player win by crosing the finish line 3 times you will se the win screne with 3 buttons the restart button that will restart the curent level the next level button(will not be sen on level 3) that takes you to the next level and the main menu button that will take you back to the main menu. 
 
+![image](https://github.com/shaddowking/Racing_game/assets/122523448/d2ea8117-a6b2-44d0-bb6e-0672d1bd72c1)
+
+
 in the main menu there is alo a quit button that will shut down the game but it only works in a build and not in the unity edditor.
 
 
