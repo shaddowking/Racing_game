@@ -9,6 +9,7 @@ The game 3 levels that the player can choose from and there area powerups on eac
  when you have the power up and pres the power up butten and if the other player is close to you thay will be bushed away from you.
 
 
+
  how to play the game:
  when you open the project the first scene that shold be up when starting the game is the scene calld main menu.
 
