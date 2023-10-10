@@ -6,7 +6,7 @@ The game 3 levels that the player can choose from and there area powerups on eac
  how the game is supose to work:
  the game is suppose to work that you have two player racing agains each other and se who dose 3 laps first and there is 3 levels thay can choose from
 
- how to play the game
+ how to play the game:
  when you open the project the first scene that shold be up when starting the game is the scene calld main menu. when the game starts if you press the start butten you will be able to shose betwen the 3 levels in the game.
 when you get in to the game ther will be two players player 1 the red that are controled by the WSAD key with W being forward S is bakword D is turning right A turn left and the press E to use the power up.
 
@@ -27,4 +27,7 @@ when eny of the player win by crosing the finish line 3 times you will se the wi
 
 in the main menu there is alo a quit button that will shut down the game but it only works in a build and not in the unity edditor.
 
+sorces:
+the oly sorce i used in this project was a granade tutorial from brakise to learn how to push enything away from the player the rest of the code i new befor making the game.
 
+https://www.youtube.com/watch?v=BYL6JtUdEY0
