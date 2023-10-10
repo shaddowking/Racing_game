@@ -5,13 +5,14 @@ this is a 3D top down razing game were two players race agenst each other and se
 The game 3 levels that the player can choose from and there area powerups on each map
 
  how the game is supose to work:
- the game is suppose to work that you have two player racing agains each other and se who dose 3 laps first and there is 3 levels thay can choose from
+ the game is suppose to work that you have two player racing agains each other and se who dose 3 laps first and there is 3 levels thay can choose from.
  when you have the power up and pres the power up butten and if the other player is close to you thay will be bushed away from you.
+ one machanic i have in my game in the second level ther is a portal that work by when the players hit the entry portal there position is chnged so the apear at the exit portal were the track continuse.
 
 
 
  how to play the game:
- when you open the project the first scene that shold be up when starting the game is the scene calld main menu.
+ when you open the project the scene you shold loude first is the one cald main menu. 
 
  
  when the game starts if you press the start butten you will be able to shose betwen the 3 levels in the game.
