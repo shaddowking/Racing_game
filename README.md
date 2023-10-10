@@ -9,9 +9,9 @@ The game 3 levels that the player can choose from and there area powerups on eac
  when you have the power up and pres the power up butten and if the other player is close to you thay will be bushed away from you.
 
 
-
  how to play the game:
  when you open the project the first scene that shold be up when starting the game is the scene calld main menu.
+
  
  when the game starts if you press the start butten you will be able to shose betwen the 3 levels in the game.
 when you get in to the game ther will be two players player 1 the red that are controled by the WSAD key with W being forward S is bakword D is turning right A turn left and the press E to use the power up.
