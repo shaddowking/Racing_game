@@ -40,7 +40,10 @@ If you Press The [Escape Button] the game will pause and you will be presented w
 
 the same buttens will be presented as in the victory UI and you will also se a resume buttun and when presed will unpause the game so you can continue.
 
+
 in the main menu there is alo a quit button that will shut down the game but it only works in a build and not in the unity edditor.
+
+
 
 sorces:
 the only sorce i used in this project was a granede tutorial from brakise to learn how to push enything away from the player the rest of the code i knew befor making the game.
