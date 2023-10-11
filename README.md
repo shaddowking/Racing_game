@@ -8,8 +8,7 @@ The game 3 levels that the player can choose from and there area powerups on eac
  how the game is supose to work:
  the game is suppose to work that you have two player racing agains each other and se who dose 3 laps first and there is 3 levels thay can choose from.
  when you have the power up and pres the power up butten and if the other player is close to you thay will be bushed away from you.
- one machanic i have in my game in the second level ther is a portal that work by when the players hit the entry portal there position is chnged so the apear at the exit portal were the track continuse.
-
+ in the second level ther is a portal that will teleport exit portal when the player Touch the entry portal.
 
 
  how to play the game:
@@ -21,7 +20,7 @@ when you get in to the game ther will be two players player 1 the red that are c
 
 ![image](https://github.com/shaddowking/Racing_game/assets/122523448/8b2bdf14-f1a8-46b5-8352-d28910ee849e)
 
-player 2 the blu car uses the arrow keys for movment so up key is forward down key is backword right key is turning right left key is turning left and you press the P putten to use the power up
+player 2 the blu car uses the arrow keys for movment so up key is forward [down key] is backword [right key] is turning right [left key] is turning left and you press the [P putten] to use the power up
 
 ![image](https://github.com/shaddowking/Racing_game/assets/122523448/5bad9ea0-008c-4fa7-9fc1-cd4c97595ea7)
 
