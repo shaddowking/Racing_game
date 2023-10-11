@@ -38,12 +38,19 @@ when any of the player win by crosing the finish line 3 times you will se the wi
 If you Press The [Escape Button] the game will pause and you will be presented with the pause menu
 ![image](https://github.com/shaddowking/Racing_game/assets/122523448/459fb700-895b-4a9a-8de6-278d39ec2c79)
 
+
 the same buttens will be presented as in the victory UI and you will also se a resume buttun and when presed will unpause the game so you can continue.
 
 
-in the main menu there is alo a quit button that will shut down the game but it only works in a build and not in the unity edditor.
+
+
+in the main menu there is also a quit button that will shut down the game but it only works in a build and not in the unity edditor.
+
+
 
 i struktured my code so that things that control simular things or are conected to the same object are together and not spread out, and why i did it is so its easyer to find somthing that whey.
+
+
 
 
 sorces:
