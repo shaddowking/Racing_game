@@ -25,6 +25,9 @@ player 2 the blu car uses the arrow keys for movment so up key is forward [down 
 
 ![image](https://github.com/shaddowking/Racing_game/assets/122523448/5bad9ea0-008c-4fa7-9fc1-cd4c97595ea7)
 
+
+
+
 in the game there will be powerups that are represented by yellow balls that you can pick up to get the power up 
 ![image](https://github.com/shaddowking/Racing_game/assets/122523448/3716d862-794e-4766-a793-d26eb664f060)
 
@@ -32,6 +35,10 @@ when any of the player win by crosing the finish line 3 times you will se the wi
 
 ![image](https://github.com/shaddowking/Racing_game/assets/122523448/d2ea8117-a6b2-44d0-bb6e-0672d1bd72c1)
 
+If you Press The [Escape Button] the game will pause and you will be presented with the pause menu
+![image](https://github.com/shaddowking/Racing_game/assets/122523448/459fb700-895b-4a9a-8de6-278d39ec2c79)
+
+the same buttens will be presented as in the victory UI and you will also se a resume buttun and when presed will unpause the game so you can continue.
 
 in the main menu there is alo a quit button that will shut down the game but it only works in a build and not in the unity edditor.
 
