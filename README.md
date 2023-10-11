@@ -4,7 +4,7 @@ using editor version 2022.3.8f1
 Made By Jesper Aronsson
 
 this is a 3D top down razing game were two players race agenst each other and se who can do tre laps first.
-The game 3 levels that the player can choose from and there area powerups on each map
+The game 3 levels that the player can choose from and there are powerups on each map
 
  how the game is supose to work:
  the game is suppose to work that you have two player racing agains each other and se who dose 3 laps first and there is 3 levels thay can choose from.
