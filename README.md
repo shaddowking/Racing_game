@@ -13,7 +13,7 @@ The game 3 levels that the player can choose from and there area powerups on eac
 
 
  how to play the game:
- when you open the project the scene you shold loude first is the one cald main menu. 
+ when you open the project the scene you shold loude first is the one cald [main menu]. 
  when the game starts if you press the start butten you will be able to shose betwen the 3 levels in the game.
 
  
