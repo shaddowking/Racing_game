@@ -1,4 +1,5 @@
 # Racing_game
+using editor version 2022.3.8f1
 Made By Jesper Aronsson
 
 this is a 3D top down razing game were two players race agenst each other and se who can do tre laps first.
@@ -35,6 +36,6 @@ when eny of the player win by crosing the finish line 3 times you will se the wi
 in the main menu there is alo a quit button that will shut down the game but it only works in a build and not in the unity edditor.
 
 sorces:
-the oly sorce i used in this project was a granade tutorial from brakise to learn how to push enything away from the player the rest of the code i new befor making the game.
+the oly sorce i used in this project was a granede tutorial from brakise to learn how to push enything away from the player the rest of the code i knew befor making the game.
 
 https://www.youtube.com/watch?v=BYL6JtUdEY0
