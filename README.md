@@ -43,7 +43,7 @@ the same buttens will be presented as in the victory UI and you will also se a r
 
 in the main menu there is alo a quit button that will shut down the game but it only works in a build and not in the unity edditor.
 
-i struktured my code so that things that control simular things are together and not spread out.
+i struktured my code so that things that control simular things are together and not spread out, and why i did it is so its easyer to find somthing that whey.
 
 
 sorces:
