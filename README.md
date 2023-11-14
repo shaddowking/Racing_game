@@ -33,3 +33,5 @@ in the main menu there are a few buttons you can press. there is the [Start Butt
 ![image](https://github.com/shaddowking/Racing_game/assets/122523448/07bd6d3b-f21e-4a2b-ab2e-0cb3bb60c99f)
 
 within the game there is the pause screan and the win screan UI with are the same. there is the [restart button] that will restart the level. The [Main menu button] that will take you to the main menu. the [Settings button] that will open the settings menu. and the [ScorBord button] that will open the score Bord.
+![image](https://github.com/shaddowking/Racing_game/assets/122523448/9790e720-0057-440e-ac83-f57a85f7ff37)
+
